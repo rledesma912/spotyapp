@@ -1,0 +1,21 @@
+{
+  "name": "spotyapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rledesma912 <hrledesma@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "popper.js": "^1.12.9",
+    "jquery": "^3.2.1"
+  }
+}
